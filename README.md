@@ -1,4 +1,4 @@
-# Hypixel Auction House Flipper f
+# Hypixel Auction House Flipper 
 
 # Changes
 - Made auction command copyable in a single click
