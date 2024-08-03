@@ -25,7 +25,7 @@
   },
   "webhook": {
     "discordWebhookUrl": "https://discord.com/api/webhooks/1269117046759755846/HtJUq9MClA5zBK8UrvhAQGGanmwiopP27USdmLRLvgdHjg6ZjycFqnNOldplfGlTQqAy",
-    "webhookName": "Captain Hook",
+    "webhookName": "Flipper",
     "webhookPFP": "https://cdn.discordapp.com/avatars/486155512568741900/164084b936b4461fe9505398f7383a0e.png?size=4096"
   },
   "filters": {
